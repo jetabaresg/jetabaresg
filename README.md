@@ -1,31 +1,31 @@
 # 🚀 Jeronimo Tabares Gallego  
 
-🎓 Administración de Sistemas Informáticos  
-🏫 Universidad Nacional de Colombia  
-💻 Full Stack Developer | ☁️ Cloud & DevOps | 🧠 AI & ML  
+🎓 Information Systems Administration Student  
+🏫 National University of Colombia  
+💻 Full Stack Developer | ☁️ Cloud & DevOps | 🧠 AI & Machine Learning  
 📍 Colombia  
 
 ---
 
-## 👨‍💻 Sobre mí  
+## 👨‍💻 About Me  
 
-Soy desarrollador enfocado en construir soluciones completas: desde interfaces modernas hasta backends robustos, integrando inteligencia artificial y despliegues en la nube.
+I am a developer focused on building end-to-end solutions: from modern frontends to robust backends, integrating artificial intelligence and cloud infrastructure.
 
-Me apasiona crear sistemas escalables, automatizar procesos y trabajar con datos para generar valor real.
+I’m especially interested in scalable systems, process automation, and data-driven solutions.
 
 ---
 
-## 🧠 Enfoque Profesional  
+## 🧠 Professional Focus  
 
-💻 Desarrollo Web Full Stack  
+💻 Full Stack Web Development  
 ☁️ Cloud Computing (AWS)  
-⚙️ DevOps & Automatización  
-🧠 Machine Learning & Minería de Datos  
-🎮 Desarrollo de Videojuegos (Unity)  
+⚙️ DevOps & Automation  
+🧠 Machine Learning & Data Mining  
+🎮 Game Development (Unity)  
 
 ---
 
-## 🛠️ Tecnologías  
+## 🛠️ Tech Stack  
 
 ### 🚀 Frontend  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -43,57 +43,51 @@ Me apasiona crear sistemas escalables, automatizar procesos y trabajar con datos
 
 ---
 
-### 🗄️ Base de Datos  
+### 🗄️ Database  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
 ### ☁️ Cloud & DevOps  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
 
-### 🎮 Otros  
+### 🎮 Other  
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 
 ---
 
-## ☁️ Experiencia en Cloud & DevOps  
+## ☁️ Cloud & DevOps Experience  
 
-- 🚀 Deploy de aplicaciones en AWS  
+- 🚀 Deploying applications on AWS  
 - 🖥️ EC2, S3, Lambda  
-- 🔄 Integración y despliegue continuo (CI/CD)  
-- 🐳 Contenedores con Docker  
-- ⚙️ Automatización de procesos  
+- 🐳 Containerization with Docker  
+- 🔄 CI/CD pipelines and automation  
+- ⚙️ Process automation and optimization  
 
 ---
 
-## 📊 Estadísticas  
+## 🔥 Featured Work  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jetabaresg&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetabaresg&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Proyectos  
-
-🔹 Aplicaciones web con React, Laravel y Django  
-🔹 Modelos de Machine Learning y minería de datos  
-🔹 Sistemas con PostgreSQL  
-🔹 Desarrollo de videojuegos en Unity  
+- 🔹 Web applications using React, Laravel, and Django  
+- 🔹 Machine Learning and data mining projects  
+- 🔹 Database-driven systems with PostgreSQL  
+- 🔹 Game development with Unity  
 
 ---
 
-## 🌐 Conecta conmigo  
+## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeronimo%20Tabares%20Gallego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-tabares-gallego)
 
 ---
 
-## ⚡ Un poco más sobre mí  
+## ⚡ Extra  
 
 ```diff
-+ Apasionado por la tecnología y el aprendizaje continuo
-+ Enfocado en soluciones reales con impacto
-+ Siempre explorando nuevas herramientas y arquitecturas
++ Passionate about technology and continuous learning
++ Focused on real-world problem solving
++ Always exploring new tools, cloud architectures and AI solutions
