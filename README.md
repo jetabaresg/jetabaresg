@@ -1,64 +1,72 @@
 # 👋 Hola, soy Jeronimo Tabares Gallego
 
-🎓 Estudiante de Administración de Sistemas Informáticos  
+🎓 Administración de Sistemas Informáticos  
 🏫 Universidad Nacional de Colombia  
-💻 Desarrollador Full Stack & entusiasta de IA  
+💻 Full Stack Developer | ☁️ Cloud & DevOps | 🧠 AI Enthusiast  
 📍 Colombia  
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí  
 
-Soy estudiante con enfoque en desarrollo de software y análisis de datos.  
-Me interesa construir soluciones reales combinando desarrollo web, backend sólido y modelos de inteligencia artificial.
+Soy desarrollador con enfoque en la construcción de soluciones completas: desde frontend moderno hasta backend robusto, integrando inteligencia artificial y despliegues en la nube.
 
-- 🔭 Actualmente trabajando en: proyectos con IA y desarrollo web
-- 🌱 Aprendiendo: Machine Learning avanzado y arquitecturas escalables
-- 👯 Buscando colaborar en: proyectos open source y aplicaciones con impacto real
-- 💬 Pregúntame sobre: React, Laravel, Django, IA, bases de datos
-- ⚡ Intereses: minería de datos, automatización, desarrollo de videojuegos
+Me interesa especialmente el desarrollo de sistemas escalables, automatización y análisis de datos.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 Especialidades  
 
-### 💻 Desarrollo web
-- ⚛️ React  
-- 🐘 Laravel  
-- 🐍 Django  
+💻 Desarrollo Web Full Stack  
+☁️ Cloud Computing (AWS)  
+⚙️ DevOps & Automatización  
+🧠 Machine Learning & Minería de Datos  
+🎮 Desarrollo en Unity  
 
-### 🧠 Inteligencia Artificial & Datos
-- Machine Learning  
-- Minería de datos  
-- Análisis de datos  
+---
 
-### 🗄️ Bases de datos
-- PostgreSQL  
+## 🛠️ Tecnologías  
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🧠 Data & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
 
 ### 🎮 Otros
-- Unity (desarrollo de videojuegos)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jetabaresg&show_icons=true&theme=tokyonight)
 
----
-
-## 📌 Proyectos destacados
-
-Aquí puedes encontrar proyectos relacionados con:
-
-- 🧠 Modelos de Machine Learning  
-- 🌐 Aplicaciones web con React / Laravel / Django  
-- 🗄️ Sistemas con bases de datos PostgreSQL  
-- 🎮 Desarrollo en Unity  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetabaresg&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contacto
+## 🔥 Proyectos  
 
-📱 Teléfono: 3127983324  
-    LinkedIn: [tu link]
-(Te recomiendo también agregar LinkedIn aquí cuando lo tengas)
+🔹 Aplicaciones web con React, Laravel y Django  
+🔹 Modelos de Machine Learning y minería de datos  
+🔹 Sistemas con PostgreSQL  
+🔹 Proyectos en Unity  
+
+---
+
+## 🌐 Conecta conmigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Álvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-tabares-gallego)
+
